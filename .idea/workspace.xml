@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb80a1c1-ab92-4606-bbbe-2add40b3a41f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/HTSDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/HTSDictionary.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/omod/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="NdrFragmentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/fragment/controller/NdrFragmentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NDRConverter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/NDRConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="262" column="35" selection-start-line="262" selection-start-column="35" selection-end-line="262" selection-end-column="35" />
+              <folding>
+                <element signature="method#createMessageHeaderType#0;class#NDRConverter#0" />
+                <element signature="method#createMarshaller#0;class#NDRConverter#0" />
+                <element signature="method#writeFile#0;class#NDRConverter#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTSDictionary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/HTSDictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#HTSDictionary#0;class#HTSDictionary#0" />
+                <element signature="method#createHIVTestingEncounter#0;class#HTSDictionary#0" />
+                <element signature="method#createPreTestCounselling#0;class#HTSDictionary#0" />
+                <element signature="e#8547#8548#0" expanded="true" />
+                <element signature="e#8565#8566#0" expanded="true" />
+                <element signature="e#8629#8630#0" expanded="true" />
+                <element signature="e#8646#8647#0" expanded="true" />
+                <element signature="e#8715#8716#0" expanded="true" />
+                <element signature="e#8733#8734#0" expanded="true" />
+                <element signature="e#7818#7819#0" expanded="true" />
+                <element signature="e#7835#7836#0" expanded="true" />
+                <element signature="e#3051#3052#0" expanded="true" />
+                <element signature="e#3069#3070#0" expanded="true" />
+                <element signature="e#3134#3135#0" expanded="true" />
+                <element signature="e#3152#3153#0" expanded="true" />
+                <element signature="e#3205#3206#0" expanded="true" />
+                <element signature="e#3223#3224#0" expanded="true" />
+                <element signature="e#3289#3290#0" expanded="true" />
+                <element signature="e#3307#3308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrUtils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="220" column="46" selection-start-line="220" selection-start-column="46" selection-end-line="220" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NDRMainDictionary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/NDRMainDictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="132" column="51" selection-start-line="132" selection-start-column="51" selection-end-line="132" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HIVTestDetailsType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVTestDetailsType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="126" column="31" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>missed</find>
+      <find>standard</find>
+      <find>yes</find>
+      <find>Feeding Decision</find>
+      <find>row</find>
+      <find>phys</find>
+      <find>Head/</find>
+      <find>repea</find>
+      <find>the</find>
+      <find>HIV TESTING</find>
+      <find>dr</find>
+      <find>duration</find>
+      <find>prote</find>
+      <find>previous</find>
+      <find>thenDisplay</find>
+      <find>id</find>
+      <find>asym</find>
+      <find>Anti</find>
+      <find>165304</find>
+      <find>pregnant</find>
+      <find>28</find>
+      <find>star</find>
+      <find>pregna</find>
+      <find>req</find>
+      <find>date</find>
+      <find>rr(</find>
+      <find>da</find>
+      <find>obsg</find>
+      <find>then</find>
+      <find>'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Arinze\openmrs-module-nigeriaemr</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Arinze" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/test.html" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/test.js" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/requestandresult.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/patient_program_enrollment.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/registration.json" />
+        <option value="$USER_HOME$/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/new 7.html" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/client_tracking_and_terminatio.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/partnerregister.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/pediatric_initial_clinical_evaluation.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/adult_clinical_evaluation.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/CareCard.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/transfer_form.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/hiv_enrollment_register.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/test2.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/general antenatal register.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/General_Antenatal_Care.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/deliveryregister.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Delivey_Information.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/child_birth_information.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Child_Birth_Information.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/vital.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/test.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Partner_Register.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/Laboratory_Order_and_Results_Form.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Laboratory_Order_and_Results_Form.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/client_intake_form.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/child_follow_up.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Client_Intake.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Child_follow_up.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/pharmarcyOrderForm.xml" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Pharmacy_order.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/admission.json" />
+        <option value="$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/mytest.json" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/util/ZipUtil.java" />
+        <option value="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/fragment/controller/NdrFragmentController.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/PregnancyEncounterType.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/AntenatalRegistrationType.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ChildBirthDetailsType.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVTestResultsType.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVPreTestCounsellingType.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ConditionType.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/serviceExtensions/EncounterDAOExt.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/serviceExtensions/EncounterServiceExt.java" />
+        <option value="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/PMTCTDictionary.java" />
+        <option value="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrUtils/Utils.java" />
+        <option value="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/NDRConverter.java" />
+        <option value="$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/HTSDictionary.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="omod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="omod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="omod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="omod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="omod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nigeriaemr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="omod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nigeriaemr" type="462c0819:PsiDirectoryNode" />
+              <item name="ndrUtils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MGIC\Project\JavaProjects\OpenMRS\nigeriaemr\omod\src\main\resources" />
+      <recent name="C:\MGIC\Project\JavaProjects\OpenMRS\nigeriaemr\api\src\main\java\org\openmrs\module\nigeriaemr\model\ndr" />
+      <recent name="C:\Users\Arinze\openmrs-module-nigeriaemr\omod\src\main\webapp\resources\htmlforms" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="NigMRS debug" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="openmrs-sdk:run" />
+                <option value="-DserverId=openmrs_server" />
+                <option value="-Dfork=false" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb80a1c1-ab92-4606-bbbe-2add40b3a41f" name="Default" comment="" />
+      <created>1522948289663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522948289663</updated>
+      <workItem from="1522948294304" duration="1760000" />
+      <workItem from="1523005705751" duration="11023000" />
+      <workItem from="1523089368253" duration="29478000" />
+      <workItem from="1523288041701" duration="70387000" />
+      <workItem from="1523544552907" duration="27851000" />
+      <workItem from="1523864292590" duration="29012000" />
+      <workItem from="1524409773889" duration="109395000" />
+      <workItem from="1525689111610" duration="1242000" />
+      <workItem from="1525858726248" duration="32469000" />
+      <workItem from="1526898637722" duration="1066000" />
+      <workItem from="1527683815206" duration="38751000" />
+      <workItem from="1528181734919" duration="55424000" />
+      <workItem from="1528798114263" duration="31971000" />
+      <workItem from="1529264076733" duration="16162000" />
+      <workItem from="1529380413880" duration="65629000" />
+      <workItem from="1530623992131" duration="410000" />
+      <workItem from="1530624453691" duration="1586000" />
+      <workItem from="1532522550704" duration="3383000" />
+      <workItem from="1534146422128" duration="2324000" />
+      <workItem from="1534245908925" duration="12625000" />
+      <workItem from="1534316496371" duration="14895000" />
+      <workItem from="1534767239575" duration="1310000" />
+      <workItem from="1535016681887" duration="489000" />
+      <workItem from="1535019176448" duration="24042000" />
+    </task>
+    <task id="LOCAL-00001" summary="My first commit">
+      <created>1523017110254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523017110254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My first commit&#10;Added more fields on child follow up forms">
+      <created>1523099971527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523099971527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Improved on the css for Child Follow up">
+      <created>1523116927737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523116927737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added more style">
+      <created>1523261921593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523261921593</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added more style">
+      <created>1523298402058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523298402058</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added more style">
+      <created>1523348337616</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1523348337616</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added more style">
+      <created>1523351094162</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1523351094162</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added more style">
+      <created>1523352901911</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1523352901911</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added child birth information">
+      <created>1523435181408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1523435181408</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added adult clinical evaluation">
+      <created>1523446972531</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1523446972531</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added hiv_enrollment_register">
+      <created>1523710342539</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1523710342539</updated>
+    </task>
+    <task id="LOCAL-00012" summary="General Modification">
+      <created>1528372596464</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528372596464</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Json form for the mobile client">
+      <created>1529944390644</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529944390644</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added pmtct and hts module">
+      <created>1535108605985</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535108605986</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="674342000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004088" side_tool="true" weight="0.32902032" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4840556" weight="0.33641404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2051756" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30228758" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35674676" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49959117" weight="0.32852387" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="10" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first commit" />
+    <MESSAGE value="My first commit&#10;Added more fields on child follow up forms" />
+    <MESSAGE value="Improved on the css for Child Follow up" />
+    <MESSAGE value="Added more style" />
+    <MESSAGE value="Added child birth information" />
+    <MESSAGE value="Added adult clinical evaluation" />
+    <MESSAGE value="Added hiv_enrollment_register" />
+    <MESSAGE value="General Modification" />
+    <MESSAGE value="Added Json form for the mobile client" />
+    <MESSAGE value="added pmtct and hts module" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pmtct and hts module" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/fragment/controller/NdrFragmentController.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ex.getMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.describeParamsForErrorMessage(method, params)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>var18</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader().getResource(&quot;NDR 1.2.xsd&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader().getResource(&quot;NDR 1.3.xsd&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader().getPackages()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/child_follow_up.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="314" column="24" selection-start-line="314" selection-start-column="19" selection-end-line="314" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/child_birth_information.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="119" column="10" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/webapp/resources/htmlforms/jsonForms/Child_follow_up.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="487" column="12" selection-start-line="487" selection-start-column="12" selection-end-line="534" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/NigeriaemrActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/NigeriaemrConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openmrs/api/openmrs-api/1.11.6/openmrs-api-1.11.6.jar!/org/openmrs/BaseOpenmrsData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/Initializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/HtmlFormsInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/util/ExtensionFormUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-347">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/NDR 1.2.xsd" />
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/util/ZipUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="48" column="72" selection-start-line="48" selection-start-column="72" selection-end-line="48" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/javax/xml/bind/JAXBContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6474">
+          <caret line="664" column="31" selection-start-line="664" selection-start-column="31" selection-end-line="664" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/extension/html/AdminList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/IndividualReportType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/AddressType.java" />
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ConditionType.java" />
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/NDR 1.3.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="154" selection-start-line="152" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/resources/NDR 1.3.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/AddressType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/AntenatalRegistrationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ChildBirthDetailsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVTestResultsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVRiskAssessmentType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVRecencyTestResultType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVPreTestCounsellingType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HealthFacilityVisitType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/DeliveryEncounterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ClinicalTBScreeningType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openmrs/module/uiframework-api/3.13.0/uiframework-api-3.13.0.jar!/org/openmrs/ui/framework/fragment/FragmentFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="459" selection-start-line="459" selection-end-line="459" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/PregnancyEncounterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ChildFollowUpType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ChildType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/ConditionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="284" column="48" lean-forward="true" selection-start-line="284" selection-start-column="48" selection-end-line="284" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/serviceExtensions/EncounterDAOExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openmrs/api/openmrs-api/1.11.6/openmrs-api-1.11.6.jar!/org/openmrs/Patient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="282" column="19" selection-start-line="282" selection-start-column="19" selection-end-line="282" selection-end-column="19" />
+          <folding>
+            <element signature="e#8444#8445#0" expanded="true" />
+            <element signature="e#8486#8487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/test/java/org/openmrs/module/nigeriaemr/NigeriaemrServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/nigeriaemr-api.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="72" selection-start-line="110" selection-start-column="65" selection-end-line="110" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/fragment/controller/NdrFragmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/serviceExtensions/EncounterServiceExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVTestingEncounterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="48" />
+          <folding>
+            <element signature="e#2837#2838#0" expanded="true" />
+            <element signature="e#2867#2868#0" expanded="true" />
+            <element signature="e#3786#3787#0" expanded="true" />
+            <element signature="e#3825#3826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/PMTCTDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/org/openmrs/module/nigeriaemr/model/ndr/HIVTestDetailsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="126" column="31" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/LabDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="216" column="14" selection-start-line="216" selection-start-column="14" selection-end-line="216" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/NDRMainDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="132" column="51" selection-start-line="132" selection-start-column="51" selection-end-line="132" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrUtils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="220" column="46" selection-start-line="220" selection-start-column="46" selection-end-line="220" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/PharmacyDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="37" />
+          <folding>
+            <element signature="method#createRegimenType#0;class#PharmacyDictionary#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/NDRConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="262" column="35" selection-start-line="262" selection-start-column="35" selection-end-line="262" selection-end-column="35" />
+          <folding>
+            <element signature="method#createMessageHeaderType#0;class#NDRConverter#0" />
+            <element signature="method#createMarshaller#0;class#NDRConverter#0" />
+            <element signature="method#writeFile#0;class#NDRConverter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omod/src/main/java/org/openmrs/module/nigeriaemr/ndrfactory/HTSDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#HTSDictionary#0;class#HTSDictionary#0" />
+            <element signature="method#createHIVTestingEncounter#0;class#HTSDictionary#0" />
+            <element signature="method#createPreTestCounselling#0;class#HTSDictionary#0" />
+            <element signature="e#8547#8548#0" expanded="true" />
+            <element signature="e#8565#8566#0" expanded="true" />
+            <element signature="e#8629#8630#0" expanded="true" />
+            <element signature="e#8646#8647#0" expanded="true" />
+            <element signature="e#8715#8716#0" expanded="true" />
+            <element signature="e#8733#8734#0" expanded="true" />
+            <element signature="e#7818#7819#0" expanded="true" />
+            <element signature="e#7835#7836#0" expanded="true" />
+            <element signature="e#3051#3052#0" expanded="true" />
+            <element signature="e#3069#3070#0" expanded="true" />
+            <element signature="e#3134#3135#0" expanded="true" />
+            <element signature="e#3152#3153#0" expanded="true" />
+            <element signature="e#3205#3206#0" expanded="true" />
+            <element signature="e#3223#3224#0" expanded="true" />
+            <element signature="e#3289#3290#0" expanded="true" />
+            <element signature="e#3307#3308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nigeriaemr</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
